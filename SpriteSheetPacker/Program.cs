@@ -1,7 +1,7 @@
 ﻿#region MIT License
 
 /*
- * Copyright (c) 2009 Nick Gravelyn (nick@gravelyn.com), Markus Ewald (cygon@nuclex.org)
+ * Copyright (c) 2009 Kelly Gravelyn (kelly@kellyrenee.me), Markus Ewald (cygon@nuclex.org)
  * 
  * Permission is hereby granted, free of charge, to any person obtaining a 
  * copy of this software and associated documentation files (the "Software"), 

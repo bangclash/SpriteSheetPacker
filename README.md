@@ -2,7 +2,7 @@
 
 Sprite Sheet Packer is a fully featured tool for combining multiple individual images into a single, efficiently laid out image.
 
-![](https://github.com/nickgravelyn/spritesheetpacker/blob/master/images/ToolUI.png)
+![](https://github.com/kellygravelyn/spritesheetpacker/blob/master/images/ToolUI.png)
 
 Sprite Sheet Packer supports reading PNG, JPG, BMP, and GIF images and produces a single PNG image with all the images embedded inside of it. The resulting image is transparent anywhere an image is not drawn. The tool also produces an accompanying file that maps the image file names with their rectangles, for use in your program to find the regions of the image you are interested in.
 
@@ -16,20 +16,20 @@ Here are some sample output files created from 720 individual images found here:
 
 Non-power of two and non-square:
 
-![](https://github.com/nickgravelyn/spritesheetpacker/blob/master/images/Sheet1.png)
+![](https://github.com/kellygravelyn/spritesheetpacker/blob/master/images/Sheet1.png)
 
 Power of two and non-square:
 
-![](https://github.com/nickgravelyn/spritesheetpacker/blob/master/images/Sheet2.png)
+![](https://github.com/kellygravelyn/spritesheetpacker/blob/master/images/Sheet2.png)
 
 Non-power of two and square:
 
-![](https://github.com/nickgravelyn/spritesheetpacker/blob/master/images/Sheet3.png)
+![](https://github.com/kellygravelyn/spritesheetpacker/blob/master/images/Sheet3.png)
 
 Power of two and square:
 
-![](https://github.com/nickgravelyn/spritesheetpacker/blob/master/images/Sheet4.png)
+![](https://github.com/kellygravelyn/spritesheetpacker/blob/master/images/Sheet4.png)
 
 For an example of parsing the text output with XNA Game Studio, see Using Sprite Sheet Packer with XNA GS.
 
-All code was written by Nick Gravelyn except the code for computing the efficient placement of the rectangles which was taken from the [Nuclex Framework](http://nuclexframework.codeplex.com/).
+All code was written by Kelly Gravelyn except the code for computing the efficient placement of the rectangles which was taken from the [Nuclex Framework](http://nuclexframework.codeplex.com/).

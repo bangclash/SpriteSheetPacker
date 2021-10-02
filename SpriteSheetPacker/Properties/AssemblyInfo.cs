@@ -7,9 +7,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Sprite Sheet Packer")]
 [assembly: AssemblyDescription("This tool packs a set of images into a single image sprite sheet, outputting both the combined image as well as a file mapping the image file names to the rectangular region in which that image resides in the sprite sheet.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Nick Gravelyn")]
+[assembly: AssemblyCompany("Kelly Gravelyn")]
 [assembly: AssemblyProduct("Sprite Sheet Packer")]
-[assembly: AssemblyCopyright("Copyright © Nick Gravelyn 2009")]
+[assembly: AssemblyCopyright("Copyright © Kelly Gravelyn 2009")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
